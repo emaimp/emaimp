@@ -26,8 +26,8 @@
         <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" alt="Flutter logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="Python logo"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Qtforpython.png" width="50" alt="PySide6 logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="ScikitLearn logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50" alt="Pytorch logo"/>
@@ -43,13 +43,13 @@
         </td>
         <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" alt="VScode logo"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" alt="Figma logo"/>
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/cline.png" width="50" alt="Cline logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" alt="Swagger logo"/>
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/colab-color.png" width="50" alt="Colab logo"/>
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/n8n-color.png" width="50" alt="n8n logo"/>
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langchain-color.png" width="50" alt="LangChain logo"/>
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/ollama.png" width="50" alt="Ollama logo"/>
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/openai.png" width="50" alt="OpenAI logo"/>
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/gemma-color.png" width="50" alt="Gemma logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" alt="Docker logo"/>
         </td>
     </tr>
