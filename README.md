@@ -33,7 +33,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" alt="React logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript logo"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL logo"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL logo"/>
         </td>
         </tr>
         <tr>
@@ -42,12 +42,12 @@
         </td>
         <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="48" alt="VScode logo"/>
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/n8n-color.png" width="50" alt="n8n logo"/>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" width="50" alt="n8n logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" alt="Swagger logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="48" alt="Postman logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="Git logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48" alt="Bash logo"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50" alt="PowerShell logo"/>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/opencode.png" width="50" alt="OpenCode logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" alt="Docker logo"/>
         </td>
     </tr>
